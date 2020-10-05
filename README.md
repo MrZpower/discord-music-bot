@@ -40,3 +40,5 @@ DISCORD_PREFIX=
 Authored and maintained by iCrawl.
 
 > GitHub [@iCrawl](https://github.com/iCrawl)
+
+[![Run on Repl.it](https://repl.it/badge/github/iCrawl/discord-music-bot)](https://repl.it/github/iCrawl/discord-music-bot)
